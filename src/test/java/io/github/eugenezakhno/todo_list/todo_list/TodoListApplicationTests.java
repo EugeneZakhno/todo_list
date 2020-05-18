@@ -1,4 +1,4 @@
-package io.github.eugenezakhno.todo_list;
+package io.github.eugenezakhno.todo_list.todo_list;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
